@@ -1,7 +1,7 @@
 # Description
 Face recognition app using PyQt5 and dlib.
 
-![Example](readme_images/ex.jpg)
+![Example](https://github.com/wildOsprey/face_recognizer/blob/master/readme_images/ex.JPG)
 ## Requirements
 For running this project you will need following:
 1. Python 3 environment
