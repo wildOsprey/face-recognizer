@@ -15,8 +15,9 @@ Required Python version - 3.6 and higher
 All required packages should be installed running ```pip install -r requirements.txt```
 
 ## Runing
-
+ 
 ```python main.py```
+
 
 ## Setup server
 1. Create folder with db data (ex. D://data//people)
