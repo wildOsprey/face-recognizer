@@ -1,7 +1,7 @@
 # Description
 Face recognition app using PyQt5 and dlib.
 
-![Example](source/ex1.jpg?raw=true "Title")
+![Example](github_images/ex.jpg?raw=true "Title")
 ## Requirements
 For running this project you will need following:
 1. Python 3 environment
