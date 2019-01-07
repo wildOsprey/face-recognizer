@@ -1,5 +1,5 @@
 # Description
-Face recognition demo.
+Face recognition app using PyQt5 and dlib.
 
 ## Requirements
 For running this project you will need following:
